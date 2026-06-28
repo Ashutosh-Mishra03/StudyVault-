@@ -1,4 +1,4 @@
-# StudyVault-
+# StudyVault
 Notes and Resource Marketplace
 # StudyVault
 
